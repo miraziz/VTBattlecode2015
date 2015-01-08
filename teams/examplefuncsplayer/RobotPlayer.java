@@ -3,6 +3,7 @@ package examplefuncsplayer;
 import battlecode.common.*;
 import java.util.*;
 
+//TESTING HERE
 public class RobotPlayer
 {
     static RobotController rc;
